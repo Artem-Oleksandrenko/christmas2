@@ -1,0 +1,50 @@
+header,footer{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    background-color:aqua;
+}
+.first{
+    display: flex;
+    justify-content: center;
+color: red;
+background-color: rgb(67, 176, 67);
+}
+.second{
+    display: flex;
+    justify-content: center;
+    background-color: greenyellow;
+
+}
+.third{
+    display: flex;
+    justify-content: center;
+    color: rgb(206, 76, 76);
+    background-color: rgb(38, 114, 38);
+}
+.firth{
+    display: flex;
+    justify-content: center;
+    background-color: greenyellow;
+}
+.title{
+    max-width: 400px;
+
+
+}
+.one{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    background-color: red;
+
+}
+.two{
+    display: flex;
+    gap: 30px;
+    background-color: bisque;
+}
+
+.little{
+    max-width: 300px;
+}
